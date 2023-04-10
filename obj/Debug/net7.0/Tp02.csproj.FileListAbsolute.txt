@@ -1,0 +1,15 @@
+Z:\Programacion4°\Tp02\bin\Debug\net7.0\Tp02.exe
+Z:\Programacion4°\Tp02\bin\Debug\net7.0\Tp02.deps.json
+Z:\Programacion4°\Tp02\bin\Debug\net7.0\Tp02.runtimeconfig.json
+Z:\Programacion4°\Tp02\bin\Debug\net7.0\Tp02.dll
+Z:\Programacion4°\Tp02\bin\Debug\net7.0\Tp02.pdb
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\Tp02.csproj.AssemblyReference.cache
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\Tp02.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\Tp02.AssemblyInfoInputs.cache
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\Tp02.AssemblyInfo.cs
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\Tp02.csproj.CoreCompileInputs.cache
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\Tp02.dll
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\refint\Tp02.dll
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\Tp02.pdb
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\Tp02.genruntimeconfig.cache
+Z:\Programacion4°\Tp02\obj\Debug\net7.0\ref\Tp02.dll
